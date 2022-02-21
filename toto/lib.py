@@ -4,6 +4,7 @@ def whats_my_name():
 
     return "Hello my name is Aymeric"
 
+
 def who_am_i():
 
     name = whats_my_name()
