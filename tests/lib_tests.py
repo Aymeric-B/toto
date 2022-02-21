@@ -5,4 +5,4 @@ def test_whoami():
 
     res = whats_my_name()
 
-    assert "Aymeric" in res.split()
+    assert "Gaetan" in res.split()
